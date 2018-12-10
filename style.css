@@ -3,6 +3,8 @@
 /*--BODY--*/
 body {
     background-image: url("images/videoblocks-printed.png");
+    background-repeat: no-repeat;
+    background-size: cover;
     font-family: 'K2D', sans-serif;
 }
 
